@@ -2,19 +2,16 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - <b>Azure / Cloud Projects</b>
-   - [Azure Security Operations Lab](https://github.com/DivisionData/Azure-SOC)
  
- - <b>SQL Project</b>
-   - [SQL-Based Investigation of Suspicious Logins and Security Updates](https://github.com/jnathan912/SQL-queries)
+ - <b>Security Operations and Incident Response</b>
+   -
  
- - <b>Linux Project</b>
-   - [Managing File Permissions and Compliance in a Linux Environment](https://github.com/jnathan912/file-permissions-in-linux)
+
  
- - <b>Vulnerability Assessment Projects</b>
-   - [Vulnerability Assessment Lab with Tenable](https://github.com/jnathan912/Vulnerability-Management)
-   - [Vulnerability Assessment Lab with Tenable Nessus](https://github.com/jnathan912/Vulnerability-Management)
-   - [Vulnerability Assessment Report](https://github.com/jnathan912/Assessment-Report)
+ - <b>Vulnerability Management Program Implementation</b>
+   - [Vulnerability Assessment Lab with Tenable]
+   - [Vulnerability Assessment Lab with Tenable Nessus]
+   - [Vulnerability Assessment Report]
 
 <h2>📄Certifications</h2>
 CompTIA Security+ ce Certification
