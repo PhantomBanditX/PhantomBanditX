@@ -1,5 +1,16 @@
 <h1>Hi, I'm Alvin! <br/> <a href="https://www.linkedin.com/in/alvinturnerjr/">Cybersecurity Professional</a> </h1>
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
  
