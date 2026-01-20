@@ -25,7 +25,8 @@
    - [Vulnerability Assessment Report]
 
 <h2>📄Certifications</h2>
-CompTIA Security+ ce Certification
+
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
