@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/aa5b909e-f546-4fb5-97fa-e429e20d06dc" width="1000px" height="500px" />
+
 <h1>Hi, I'm Alvin! <br/> <a href="https://www.linkedin.com/in/alvinturnerjr/">Cybersecurity Professional</a> </h1>
 
 ## ⚠️ Vulnerability Management Projects
@@ -29,9 +31,11 @@
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)
 
 
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Alvin Turner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alvin Turner | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/08d98425-dd93-4176-b93c-7ac76983f762" />][linkedin]
+
 
 [linkedin]: https://linkedin.com/in/alvinturnerjr/
 
