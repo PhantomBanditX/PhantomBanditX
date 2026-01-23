@@ -4,7 +4,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]**
+- [Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation)
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
 
 ## 🚨 Threat Hunting and Security Operations
