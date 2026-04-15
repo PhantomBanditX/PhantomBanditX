@@ -9,7 +9,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- [Threat Hunting Scenario (Tor Browser Usage)]
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)
 
 <hr/>
 
