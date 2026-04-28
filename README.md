@@ -10,6 +10,10 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)
+- [Threat Hunting Scenario (Data Exfiltration)]
+- [Threat Hunting Scenario (Sudden Network Slowdowns)]
+- [Threat Hunting Scenario (New Zero-Day Announced)]
+- [Threat Hunting Scenario (Devices Exposed to the Internet)]
 
 <hr/>
 
