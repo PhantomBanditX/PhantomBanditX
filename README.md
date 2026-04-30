@@ -13,7 +13,7 @@
 - [Threat Hunting Scenario (Data Exfiltration)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)
 - [Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)
 - [Threat Hunting Scenario (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)
-- [Threat Hunting Scenario (Devices Exposed to the Internet)]
+- [Threat Hunting Scenario (Exposed VM Investigation)]
 
 <hr/>
 
