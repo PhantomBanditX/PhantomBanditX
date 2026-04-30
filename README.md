@@ -17,19 +17,6 @@
 
 <hr/>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
- 
- - <b>Security Operations and Incident Response</b>
-   -
- 
-
- 
- - <b>Vulnerability Management Program Implementation</b>
-   - [Vulnerability Assessment Lab with Tenable]
-   - [Vulnerability Assessment Lab with Tenable Nessus]
-   - [Vulnerability Assessment Report]
-
 <h2>📄Certifications</h2>
 
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)
