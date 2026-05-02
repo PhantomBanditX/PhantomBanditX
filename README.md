@@ -6,8 +6,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation)**
   - Designed and implemented a full vulnerability management workflow using Tenable and CVSS prioritization to identify, prioritize, and remediate vulnerabilities.
-
----
+    
 - [Programmatic Vulnerability Remediations (PowerShell and BASH)]
 
 ## 🚨 Threat Hunting and Security Operations
