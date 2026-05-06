@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/aa5b909e-f546-4fb5-97fa-e429e20d06dc" width="1000px" height="300px" />
-
 # <a href="https://www.linkedin.com/in/alvinturnerjr/">Alvin Turner</a> | Cybersecurity Portfolio 🔐
 
 ## ⚠️ Vulnerability Management Projects
