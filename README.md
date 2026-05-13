@@ -12,6 +12,7 @@
 - [Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)
 - [Threat Hunting Scenario (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)
 - [Threat Hunting Scenario (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
+- [Incident Response: Create Alert Rule (Brute Force Attempt Detection)]
 
 <hr/>
 
