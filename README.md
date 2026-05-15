@@ -16,6 +16,9 @@
 ## 🔥 Incident Response
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/PhantomBanditX/Brute-Force)**
 
+## 🖥️ Active Directory Lab
+- **[AD DS, DHCP, RAS/NAT Powershell]**
+
 <hr/>
 
 <h2>📄Certifications</h2>
