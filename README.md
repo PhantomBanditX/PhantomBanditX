@@ -7,14 +7,14 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)
-- [Threat Hunting Scenario (Data Exfiltration)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)
-- [Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)
-- [Threat Hunting Scenario (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)
-- [Threat Hunting Scenario (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
+- **[Threat Hunting Scenario (Data Exfiltration)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)**
+- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)**
+- **[Threat Hunting Scenario (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)**
+- **[Threat Hunting Scenario (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)**
 
 ## 🔥 Incident Response
-- [Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/PhantomBanditX/Brute-Force)
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/PhantomBanditX/Brute-Force)**
 
 <hr/>
 
