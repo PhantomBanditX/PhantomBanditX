@@ -15,6 +15,7 @@
 
 ## 🔥 Incident Response
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/PhantomBanditX/Brute-Force)**
+- **[Incident Response: Create Alert Rule (Impossible Travel)]**
 
 ## 🖥️ Active Directory Lab
 - **[AD DS, DHCP, RAS/NAT Powershell]**
