@@ -1,8 +1,8 @@
 # <a href="https://www.linkedin.com/in/alvinturnerjr/">Alvin Turner</a> | Cybersecurity Portfolio 🔐
 
-Aspiring Cybersecurity Professional with hands-on experience in Threat Hunting, Incident Response, Vulnerability Management, Cloud Security, Active Directory, and GRC. Experienced with Microsoft Sentinel, Defender for Endpoint, KQL, and PowerShell through practical labs and security investigations.
+Cybersecurity Professional with hands-on experience in Threat Hunting, Incident Response, Vulnerability Management, Cloud Security, Active Directory, and GRC. Experienced with Microsoft Sentinel, Defender for Endpoint, KQL, and PowerShell through practical labs and security investigations.
 
-Passionate about cybersecurity and solving complex challenges through hands-on projects, real-world investigations, and defensive security operations.
+This portfolio showcases hands-on projects focused on threat detection, defensive security operations, and real-world security investigations
 
 ## ⚠️ Vulnerability Management Projects
 
