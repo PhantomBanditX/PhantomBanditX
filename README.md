@@ -7,7 +7,7 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation)**  
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/PhantomBanditX/Programmatic-Vulnerability-Remediations/tree/main)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/PhantomBanditX/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
