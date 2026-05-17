@@ -20,7 +20,7 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 ## 🔥 Incident Response
 - **[Incident Response: Brute Force Attempt Investigation](https://github.com/PhantomBanditX/Brute-Force)**
 - **[Incident Response: Impossible Travel Investigation](https://github.com/PhantomBanditX/Impossible-Travel-Alert)**
-- **[Incident Response: PowerShell Suspicious Web Request Investigation]**
+- **[Incident Response: PowerShell Suspicious Web Request Investigation](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request)**
 
 ## 🖥️ Active Directory Lab
 - **[AD DS, DHCP, RAS/NAT Powershell]**
