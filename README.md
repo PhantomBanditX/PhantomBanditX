@@ -11,11 +11,11 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
-- **[Threat Hunting Scenario (Data Exfiltration)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)**
-- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)**
-- **[Threat Hunting Scenario (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)**
-- **[Threat Hunting Scenario (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)**
+- **[Threat Hunting (Tor Browser Usage)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
+- **[Threat Hunting (Data Exfiltration)](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)**
+- **[Threat Hunting (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)**
+- **[Threat Hunting (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)**
+- **[Threat Hunting (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)**
 - **[Threat Hunting CTF (Signals After the Noise)]**
 
 ## 🔥 Incident Response
