@@ -16,7 +16,7 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 - **[Threat Hunting (Sudden Network Slowdowns)](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)**
 - **[Threat Hunting (New Zero-Day Announced)](https://github.com/PhantomBanditX/New-Zero-Day)**
 - **[Threat Hunting (Exposed VM Investigation)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)**
-- **[Threat Hunting CTF (Signals After the Noise)]**
+- **[Threat Hunting (Signals After the Noise)]**
 
 ## 🔥 Incident Response
 - **[Incident Response: Brute Force Attempt Investigation](https://github.com/PhantomBanditX/Brute-Force)**
