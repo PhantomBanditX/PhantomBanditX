@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/alvinturnerjr/">Alvin Turner</a> | Cybersecurity Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alvinturnerjr/">Alvin Turner Jr.</a> | Cybersecurity Portfolio 🔐
 
 Cybersecurity Professional with hands-on experience in Threat Hunting, Incident Response, Vulnerability Management, Cloud Security, Active Directory, and GRC. Experienced with Microsoft Sentinel, Defender for Endpoint, KQL, and PowerShell through practical labs and security investigations.
 
