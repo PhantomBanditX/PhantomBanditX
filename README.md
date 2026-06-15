@@ -26,6 +26,9 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 ## 🖥️ Active Directory Lab
 - **[Azure AD Security Lab](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)**
 
+## 🤖 AI Security Engineering
+- **[AI SOC Analyst Agent]**
+
 <hr/>
 
 <h2>📄Certifications</h2>
