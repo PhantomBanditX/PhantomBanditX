@@ -24,7 +24,7 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 - **[Incident Response: PowerShell Suspicious Web Request Investigation](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request)**
 
 ## 🖥️ Azure AD Security Environment
-- **[Azure AD Security Lab](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)**
+- **[Azure AD Administration and Automation](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)**
 
 ## 🤖 AI Security Engineering
 - **[AI SOC Analyst Agent]** (In Progress)
