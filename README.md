@@ -23,8 +23,8 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 - **[Incident Response: Impossible Travel Investigation](https://github.com/PhantomBanditX/Impossible-Travel-Alert)**
 - **[Incident Response: PowerShell Suspicious Web Request Investigation](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request)**
 
-## 🖥️ Azure Active Directory & Identity Security
-- **[Azure AD Administration and Automation](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)**
+## 🖥️ Active Directory & Identity Security
+- **[AD Administration and Automation](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)**
 
 ## 🤖 AI Security Engineering
 - **[AI SOC Analyst Agent]** (In Progress)
