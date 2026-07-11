@@ -32,8 +32,6 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 <hr/>
 
 <h2>📄Certifications</h2>
-<img width="100" height="100" src="https://github.com/user-attachments/assets/dfd7d825-e427-4162-9068-a3bbe1cbb104" />
-<br>
 
 - **[CompTIA Security+ ce Certification](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)**
 
