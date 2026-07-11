@@ -29,7 +29,6 @@ This portfolio showcases hands-on projects focused on threat detection, defensiv
 ## 🤖 AI Security Engineering
 - **[AI SOC Analyst Agent]** (In Progress)
 
-<hr/>
 
 <h2>📄Certifications</h2>
 
