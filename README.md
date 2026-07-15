@@ -175,7 +175,7 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
   
 ---
 
-## 🔗 Connect
+## 🤳 Connect
 
 [<img align="left" alt="Alvin Turner | LinkedIn" width="24px" src="https://github.com/user-attachments/assets/08d98425-dd93-4176-b93c-7ac76983f762" />][linkedin]
 
