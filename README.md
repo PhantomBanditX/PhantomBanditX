@@ -183,6 +183,10 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Turner%20Jr.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvinturnerjr/)
-[![GitHub](https://img.shields.io/badge/GitHub-PhantomBanditX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[<img align="left" alt="Alvin Turner | LinkedIn" width="24px" src="https://github.com/user-attachments/assets/08d98425-dd93-4176-b93c-7ac76983f762" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/alvinturnerjr/
+
+
+
+
