@@ -18,7 +18,7 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 
 **Core Skills:** Tenable.io, Azure, CVSS, Remediation, PowerShell, DISA STIG
 
-[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation/blob/main/README.md)
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation)
 
 </td>
 <td width="33%" valign="top">
