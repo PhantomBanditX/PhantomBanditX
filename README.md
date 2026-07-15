@@ -29,7 +29,7 @@ Enterprise investigation using Microsoft Defender for Endpoint, Microsoft Sentin
 
 **Core Skills:** KQL, MDE, Sentinel, Threat Hunting, MITRE ATT&CK
 
-[![View Project](https://img.shields.io/badge/View_Project-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Signals-After-the-Noise/blob/main/README.md)
+[![View Project](https://img.shields.io/badge/View_Project-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Signals-After-the-Noise)
 
 </td>
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 
 **Core Skills:** Sentinel, MDE, Authentication Analysis, Incident Response
 
-[![View Project](https://img.shields.io/badge/View_Project-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Exposed-VM-Investigation/blob/main/README.md)
+[![View Project](https://img.shields.io/badge/View_Project-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
 
 </td>
 </tr>
@@ -54,36 +54,36 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 
 ## ⚠️ Vulnerability Management
 
-- [Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation/blob/main/README.md)
-- [Programmatic Vulnerability Remediations](https://github.com/PhantomBanditX/Programmatic-Vulnerability-Remediations/blob/main/README.md)
+- [Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation)
+- [Programmatic Vulnerability Remediations](https://github.com/PhantomBanditX/Programmatic-Vulnerability-Remediations)
 
 </td>
 <td width="25%" valign="top">
 
 ## 🚨 SOC Investigations
 
-- [Signals After the Noise](https://github.com/PhantomBanditX/Signals-After-the-Noise/blob/main/README.md)
-- [Exposed VM Investigation](https://github.com/PhantomBanditX/Exposed-VM-Investigation/blob/main/README.md)
-- [Brute-Force Investigation](https://github.com/PhantomBanditX/Brute-Force/blob/main/README.md)
-- [Impossible Travel Alert](https://github.com/PhantomBanditX/Impossible-Travel-Alert/blob/main/README.md)
-- [Sudden Network Slowdowns](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns/blob/main/README.md)
-- [Tor Browser Usage](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-/blob/main/README.md)
-- [Data Exfiltration](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-/blob/main/README.md)
+- [Signals After the Noise](https://github.com/PhantomBanditX/Signals-After-the-Noise)
+- [Exposed VM Investigation](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
+- [Brute-Force Investigation](https://github.com/PhantomBanditX/Brute-Force)
+- [Impossible Travel Alert](https://github.com/PhantomBanditX/Impossible-Travel-Alert)
+- [Sudden Network Slowdowns](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns)
+- [Tor Browser Usage](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-)
+- [Data Exfiltration](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-)
 
 </td>
 <td width="25%" valign="top">
 
 ## 🚑 Incident Response
 
-- [New Zero-Day Investigation](https://github.com/PhantomBanditX/New-Zero-Day/blob/main/README.md)
-- [PowerShell Suspicious Web Request](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request/blob/main/README.md)
+- [New Zero-Day Investigation](https://github.com/PhantomBanditX/New-Zero-Day)
+- [PowerShell Suspicious Web Request](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request)
 
 </td>
 <td width="25%" valign="top">
 
 ## 👤 Active Directory & Identity Security
 
-- [Active Directory Administration & Automation in Azure](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure/blob/main/README.md)
+- [Active Directory Administration & Automation in Azure](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)
 
 </td>
 </tr>
