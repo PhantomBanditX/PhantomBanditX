@@ -160,12 +160,6 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 ![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-E21F26?style=for-the-badge)
 ![SC-200](https://img.shields.io/badge/Microsoft_SC--200-In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-- **CompTIA Security+**
-- **Qualys Certified Specialist — VMDR**
-- **Qualys Certified Specialist — Vulnerability Management**
-- **Qualys Certified Specialist — CSAM**
-- **Microsoft Security Operations Analyst (SC-200)** — In Progress, Expected September 2026
-
 ---
 
 ## 📚 Current Focus
