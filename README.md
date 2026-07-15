@@ -164,7 +164,7 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 
 ## 📚 Current Focus
 
-- Microsoft Security Operations
+- **Microsoft Security Operations**
 - Vulnerability Management
 - Detection Engineering
 - Threat Hunting
