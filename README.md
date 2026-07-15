@@ -154,7 +154,7 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 
 ## 🏅 Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)
 ![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-E21F26?style=for-the-badge)
 ![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-E21F26?style=for-the-badge)
 ![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-E21F26?style=for-the-badge)
