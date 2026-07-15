@@ -2,15 +2,15 @@
 
 **Cybersecurity Professional specializing in Microsoft Security Operations, Vulnerability Management, and Security Operations. Experienced using Microsoft Sentinel, Microsoft Defender for Endpoint, Tenable.io, Azure, PowerShell, and KQL to investigate security incidents, perform threat hunting, automate remediation, and strengthen security posture.**
 
-This portfolio demonstrates hands-on experience through documented security projects covering vulnerability management, SOC investigations, threat hunting, detection engineering, and Active Directory administration.
+This portfolio demonstrates hands-on experience through documented enterprise security projects covering vulnerability management, SOC investigations, incident response, detection engineering, and Active Directory administration.
 
 ---
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alvinturnerjr/)
-[![GitHub](https://img.shields.io/badge/GitHub-PhantomBanditX-black?logo=github)](https://github.com/PhantomBanditX)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin%20Turner%20Jr.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvinturnerjr/)
+[![GitHub](https://img.shields.io/badge/GitHub-PhantomBanditX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 
 ---
 
@@ -22,27 +22,33 @@ This portfolio demonstrates hands-on experience through documented security proj
 
 ### 🛡️ Enterprise Vulnerability Management
 
-End-to-end vulnerability management using Tenable.io, CVSS-based risk prioritization, remediation tracking, PowerShell, and DISA STIG guidance.
+End-to-end vulnerability management using Tenable.io, CVSS-based prioritization, remediation tracking, PowerShell automation, and DISA STIG compliance.
 
-[View Project →](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation/blob/main/README.md)
+**Core Skills:** Tenable.io, Azure, CVSS, Remediation, PowerShell, DISA STIG
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation/blob/main/README.md)
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚨 SOC Investigation
 
-Investigation using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MITRE ATT&CK, and incident response methodology.
+Enterprise investigation using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MITRE ATT&CK, and incident response methodology.
 
-[View Project →](https://github.com/PhantomBanditX/Signals-After-the-Noise/blob/main/README.md)
+**Core Skills:** KQL, MDE, Sentinel, Threat Hunting, MITRE ATT&CK
+
+[![View Project](https://img.shields.io/badge/View_Project-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Signals-After-the-Noise/blob/main/README.md)
 
 </td>
 <td width="33%" valign="top">
 
-### 🔎 Threat Hunting
+### 🔍 Threat Investigation
 
-Investigation of an internet-exposed virtual machine involving brute-force activity, password reuse, and suspicious authentication behavior.
+Investigation of an internet-exposed Azure VM involving brute-force activity, password reuse, and suspicious authentication behavior.
 
-[View Project →](https://github.com/PhantomBanditX/Exposed-VM-Investigation/blob/main/README.md)
+**Core Skills:** Sentinel, MDE, Authentication Analysis, Incident Response
+
+[![View Project](https://img.shields.io/badge/View_Project-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Exposed-VM-Investigation/blob/main/README.md)
 
 </td>
 </tr>
@@ -50,30 +56,46 @@ Investigation of an internet-exposed virtual machine involving brute-force activ
 
 ---
 
-## ⚠️ Vulnerability Management Projects
+<table>
+<tr>
+<td width="25%" valign="top">
+
+## ⚠️ Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://github.com/PhantomBanditX/Vulnerability-Management-Program-Implementation/blob/main/README.md)
 - [Programmatic Vulnerability Remediations](https://github.com/PhantomBanditX/Programmatic-Vulnerability-Remediations/blob/main/README.md)
 
----
+</td>
+<td width="25%" valign="top">
 
-## 🚨 SOC Investigations & Threat Hunting
+## 🚨 SOC Investigations
 
 - [Signals After the Noise](https://github.com/PhantomBanditX/Signals-After-the-Noise/blob/main/README.md)
 - [Exposed VM Investigation](https://github.com/PhantomBanditX/Exposed-VM-Investigation/blob/main/README.md)
-- [New Zero-Day Investigation](https://github.com/PhantomBanditX/New-Zero-Day/blob/main/README.md)
-- [PowerShell Suspicious Web Request](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request/blob/main/README.md)
 - [Brute-Force Investigation](https://github.com/PhantomBanditX/Brute-Force/blob/main/README.md)
 - [Impossible Travel Alert](https://github.com/PhantomBanditX/Impossible-Travel-Alert/blob/main/README.md)
 - [Sudden Network Slowdowns](https://github.com/PhantomBanditX/Sudden-Network-Slowdowns/blob/main/README.md)
-- [Tor Browser Usage Investigation](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-/blob/main/README.md)
-- [Data Exfiltration Investigation](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-/blob/main/README.md)
+- [Tor Browser Usage](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Tor-Browser-Usage-/blob/main/README.md)
+- [Data Exfiltration](https://github.com/PhantomBanditX/Threat-Hunting-Scenario-Data-Exfiltration-/blob/main/README.md)
 
----
+</td>
+<td width="25%" valign="top">
 
-## 👥 Active Directory & Identity Security
+## 🚑 Incident Response
 
-- [Active Directory Administration and Automation in Azure](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure/blob/main/README.md)
+- [New Zero-Day Investigation](https://github.com/PhantomBanditX/New-Zero-Day/blob/main/README.md)
+- [PowerShell Suspicious Web Request](https://github.com/PhantomBanditX/PowerShell-Suspicious-Web-Request/blob/main/README.md)
+
+</td>
+<td width="25%" valign="top">
+
+## 👤 Active Directory & Identity Security
+
+- [Active Directory Administration & Automation in Azure](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure/blob/main/README.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,43 +107,52 @@ Investigation of an internet-exposed virtual machine involving brute-force activ
 
 ### Microsoft Security
 
-- Microsoft Sentinel
-- Microsoft Defender for Endpoint
-- Azure
-- KQL
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-EDR-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-0078D4?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
 ### Vulnerability Management
 
-- Tenable.io
-- CVE/CWE Analysis
-- CVSS Scoring
-- DISA STIG
-- Patch Management
+![Tenable](https://img.shields.io/badge/Tenable.io-Vulnerability_Management-00A5B5?style=flat-square)
+
+![CVSS](https://img.shields.io/badge/CVSS-Risk_Prioritization-6F42C1?style=flat-square)
+
+![CVE/CWE](https://img.shields.io/badge/CVE%2FCWE-Analysis-D73A49?style=flat-square)
+
+![DISA STIG](https://img.shields.io/badge/DISA_STIG-Security_Hardening-8250DF?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
 ### Security Operations
 
-- Threat Hunting
-- Incident Response
-- Detection Engineering
-- Security Monitoring
-- Log Analysis
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-SOC-2DA44E?style=flat-square)
+
+![Incident Response](https://img.shields.io/badge/Incident_Response-NIST_800--61-C9510C?style=flat-square)
+
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-KQL-0969DA?style=flat-square)
+
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-SIEM-57606A?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
 ### Identity & Systems
 
-- Active Directory
-- Group Policy
-- Windows Server
-- PowerShell
-- Bash
+![Active Directory](https://img.shields.io/badge/Active_Directory-IAM-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 </tr>
@@ -131,25 +162,27 @@ Investigation of an internet-exposed virtual machine involving brute-force activ
 
 ## 🏅 Certifications
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
-![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-blue)
-![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-blue)
-![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-blue)
-![SC-200](https://img.shields.io/badge/Microsoft_SC--200-In_Progress-orange)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-E21F26?style=for-the-badge)
+![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-E21F26?style=for-the-badge)
+![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-E21F26?style=for-the-badge)
+![SC-200](https://img.shields.io/badge/Microsoft_SC--200-In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 - **CompTIA Security+**
-- **Qualys Certified Specialist – VMDR**
-- **Qualys Certified Specialist – Vulnerability Management**
-- **Qualys Certified Specialist – CSAM**
+- **Qualys Certified Specialist — VMDR**
+- **Qualys Certified Specialist — Vulnerability Management**
+- **Qualys Certified Specialist — CSAM**
 - **Microsoft Security Operations Analyst (SC-200)** — In Progress, Expected September 2026
 
 ---
 
-## 📈 Current Focus
+## 📚 Current Focus
 
 - Microsoft Security Operations
 - Vulnerability Management
 - Detection Engineering
 - Threat Hunting
+- Incident Response
 - Identity Security
+- Microsoft Defender XDR
 - SC-200 preparation
