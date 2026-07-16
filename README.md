@@ -60,7 +60,7 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 </td>
 <td width="25%" valign="top">
 
-## 🚨 SOC Investigations
+## 🚨 Microsoft Sentinel Security Operations
 
 - [Signals After the Noise](https://github.com/PhantomBanditX/Signals-After-the-Noise)
 - [Exposed VM Investigation](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
