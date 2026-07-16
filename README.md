@@ -155,9 +155,9 @@ Investigation of an internet-exposed Azure VM involving brute-force activity, pa
 ## 🏅 Certifications
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/12362b2a-4644-4d32-be13-9a6726033f06/public_url)
-[![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-E21F26?style=for-the-badge)](https://github.com/user-attachments/assets/aae1d527-a1d1-4ff5-8150-6a74a77d5416)
-[![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-E21F26?style=for-the-badge)](https://github.com/user-attachments/assets/3e83e781-48d8-4ce1-9423-0b3fc317bd7d)
-[![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-E21F26?style=for-the-badge)](https://github.com/user-attachments/assets/ebe423d5-57c9-49a1-bbf3-6316826f2649)
+[![Qualys VMDR](https://img.shields.io/badge/Qualys-VMDR-E21F26?style=for-the-badge)](https://drive.google.com/file/d/1DSmtRxkOQZjaJ0xl-FPJqZSB9t6L6bCs/view?usp=sharing)
+[![Qualys VM](https://img.shields.io/badge/Qualys-Vulnerability_Management-E21F26?style=for-the-badge)](https://drive.google.com/file/d/1Ib6fypgcPFAbvzLEKh5fRqLMp0VD-hNx/view?usp=sharing)
+[![Qualys CSAM](https://img.shields.io/badge/Qualys-CSAM-E21F26?style=for-the-badge)](https://drive.google.com/file/d/1un0LOubVghcb-kqqiwIWpNMPl9d7aMnb/view?usp=sharing)
 ![SC-200](https://img.shields.io/badge/Microsoft_SC--200-In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
