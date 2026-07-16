@@ -25,7 +25,7 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 
 ### 🚨 Microsoft Sentinel Security Operations
 
-Enterprise investigation using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MITRE ATT&CK, and incident response methodology.
+Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compromise attacker activity, correlate telemetry, and map findings to MITRE ATT&CK.
 
 **Core Skills:** KQL, MDE, Sentinel, Threat Hunting, MITRE ATT&CK
 
