@@ -23,7 +23,7 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 </td>
 <td width="33%" valign="top">
 
-### 🚨 Security Operations
+### 🚨 Microsoft Sentinel Security Operations
 
 Enterprise investigation using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MITRE ATT&CK, and incident response methodology.
 
