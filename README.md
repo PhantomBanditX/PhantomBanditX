@@ -27,7 +27,7 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 
 Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compromise attacker activity, correlate telemetry, and map findings to MITRE ATT&CK.
 
-**Core Skills:** KQL, MDE, Sentinel, Threat Hunting, MITRE ATT&CK
+**Core Skills:** Microsoft Sentinel, KQL, Threat Hunting, Log Analysis, MITRE ATT&CK
 
 [![View Project](https://img.shields.io/badge/View_Project-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Signals-After-the-Noise)
 
