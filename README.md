@@ -38,7 +38,7 @@ Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compr
 
 Investigation of an internet-exposed Azure VM involving brute-force activity, password reuse, and suspicious authentication behavior.
 
-**Core Skills:** Sentinel, MDE, Authentication Analysis, Incident Response
+**Core Skills:** Microsoft Defender XDR Advanced Hunting, Microsoft Defender for Endpoint, KQL, Authentication Analysis, Incident Response
 
 [![View Project](https://img.shields.io/badge/View_Project-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
 
