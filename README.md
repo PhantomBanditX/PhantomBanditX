@@ -18,7 +18,7 @@ End-to-end Azure honeypot investigation covering telemetry ingestion, KQL detect
 
 **Core Skills:** Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, Azure, Detection Engineering, Incident Response, DFIR
 
-[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Microsoft-Sentinel-Honeypot-IR)
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-DC3545?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Microsoft-Sentinel-Honeypot-IR)
 
 </td>
 <td width="33%" valign="top">
