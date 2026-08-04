@@ -23,7 +23,7 @@ End-to-end Azure honeypot investigation covering telemetry ingestion, KQL detect
 </td>
 <td width="33%" valign="top">
 
-### 🛡️ Enterprise Vulnerability Management
+### 🔵 Enterprise Vulnerability Management
 
 End-to-end vulnerability management using Tenable.io, CVSS-based prioritization, remediation tracking, PowerShell automation, and DISA STIG compliance.
 
@@ -62,6 +62,7 @@ Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compr
 
 ## 🚨 Microsoft Sentinel Security Operations
 
+- [Microsoft Sentinel Honeypot IR](https://github.com/PhantomBanditX/Microsoft-Sentinel-Honeypot-IR)
 - [Signals After the Noise](https://github.com/PhantomBanditX/Signals-After-the-Noise)
 - [Exposed VM Investigation](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
 - [Brute-Force Investigation](https://github.com/PhantomBanditX/Brute-Force)
