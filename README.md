@@ -12,6 +12,17 @@ This portfolio demonstrates hands-on experience through documented enterprise se
 <tr>
 <td width="33%" valign="top">
 
+### 🔴 Microsoft Sentinel Honeypot IR
+
+End-to-end Azure honeypot investigation covering telemetry ingestion, KQL detections, MySQL compromise, MDE containment, recovery, and DFIR package comparison.
+
+**Core Skills:** Microsoft Sentinel, Microsoft Defender for Endpoint, KQL, Azure, Detection Engineering, Incident Response, DFIR
+
+[![View Project](https://img.shields.io/badge/View_Project-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Microsoft-Sentinel-Honeypot-IR)
+
+</td>
+<td width="33%" valign="top">
+
 ### 🛡️ Enterprise Vulnerability Management
 
 End-to-end vulnerability management using Tenable.io, CVSS-based prioritization, remediation tracking, PowerShell automation, and DISA STIG compliance.
@@ -23,24 +34,13 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 </td>
 <td width="33%" valign="top">
 
-### 🚨 Microsoft Sentinel Threat Hunting
+### 🟣 Microsoft Sentinel Threat Hunting
 
 Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compromise attacker activity, correlate telemetry, and map findings to MITRE ATT&CK.
 
 **Core Skills:** Microsoft Sentinel, KQL, Threat Hunting, Log Analysis, MITRE ATT&CK
 
 [![View Project](https://img.shields.io/badge/View_Project-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Signals-After-the-Noise)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔍 Threat Investigation
-
-Investigation of an internet-exposed Azure VM involving brute-force activity, password reuse, and suspicious authentication behavior.
-
-**Core Skills:** Microsoft Defender XDR Advanced Hunting, Microsoft Defender for Endpoint, KQL, Authentication Analysis, Incident Response
-
-[![View Project](https://img.shields.io/badge/View_Project-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomBanditX/Exposed-VM-Investigation)
 
 </td>
 </tr>
