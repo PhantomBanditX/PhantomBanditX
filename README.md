@@ -23,7 +23,7 @@ End-to-end vulnerability management using Tenable.io, CVSS-based prioritization,
 </td>
 <td width="33%" valign="top">
 
-### 🚨 Microsoft Sentinel Security Operations
+### 🚨 Microsoft Sentinel Threat Hunting
 
 Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compromise attacker activity, correlate telemetry, and map findings to MITRE ATT&CK.
 
