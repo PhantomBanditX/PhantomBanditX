@@ -85,6 +85,7 @@ Enterprise threat hunt in Microsoft Sentinel using KQL to reconstruct post-compr
 ## 👤 Active Directory & Identity Security
 
 - [Active Directory Administration & Automation in Azure](https://github.com/PhantomBanditX/Active-Directory-Administration-and-Automation-in-Azure)
+- [ServiceNow-Active-Directory-IT-Support-Operations]
 
 </td>
 </tr>
