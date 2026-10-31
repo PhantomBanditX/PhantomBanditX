@@ -1,7 +1,5 @@
 # 🔐 Microsoft Security Operations Portfolio
 
- 🔐 Microsoft Security Operations Portfolio
-
 **Cybersecurity Professional specializing in Microsoft Security Operations and Vulnerability Management.  
 Experienced using Microsoft Sentinel, Microsoft Defender for Endpoint, Tenable.io, Azure, PowerShell, and KQL to investigate security incidents, perform threat hunting, automate remediation, and strengthen security posture.**
 
